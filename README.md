@@ -1,3 +1,18 @@
+> **📦 本地备份快照** (2026-07-04)
+>
+> | 项 | 值 |
+> |---|---|
+> | 原路径 | `/opt/workspace/playground/tlsnotary/tlsn` |
+> | 上游 | [tlsnotary/tlsn](https://github.com/tlsnotary/tlsn) |
+> | 改动分支 | `playground` |
+> | 改动内容 | Binance demo 示例 + harness 贪吃蛇小游戏 |
+>
+> ### `playground` 分支新增文件
+> - `crates/examples/binance_demo/` — TLSNotary 证明/验证 demo（prover.rs, verifier.rs）
+> - `crates/harness/static/snake.js` + `snake_logic.js` — 浏览器小游戏
+>
+> 查看本地改动：`git checkout playground`
+
 <p align="center">
     <img src="./tlsn-banner.png" width=1280 />
 </p>
